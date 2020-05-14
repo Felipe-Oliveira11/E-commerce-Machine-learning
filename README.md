@@ -1,2 +1,2 @@
 ### E-commerce Machine learning
-#### Modelo de Machine learning desenvolvido para identificar os gastos da plataforma. 
+#### Projeto de Machine learning desenvolvido para identificar os gastos de uma plataforma de e-commerce. 
