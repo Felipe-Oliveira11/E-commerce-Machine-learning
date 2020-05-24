@@ -4,4 +4,4 @@
 
 <br>
 
-![alt text](https://www.coredna.com/web_images/blogs/71/932/machine-learning-AI-ecommerce-title.png)
+![alt text](https://www.yo-kart.com/blog/wp-content/uploads/2016/12/Future-proof-with-machine-learning.png)
